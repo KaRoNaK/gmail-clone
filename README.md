@@ -2,6 +2,6 @@
 
 ## Setup
 
-* To run this app, you need to add a firebase config variable in the `<firebase.js>` file.
+* To run this app, you need to add a firebase config variable in the `<src/firebase.js>` file.
 * Next, run `<npm i>`
 * And finally, run `<npm start>`
